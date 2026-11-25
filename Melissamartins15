@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Blog da melissamartins</title>
+<style>
+body { font-family: Arial, sans-serif; margin: 0; background: #fff0f5; color: #333; }
+header { background: #ff69b4; color: white; text-align: center; padding: 30px; }
+header h1 { margin: 0; font-size: 36px; }
+header p { margin: 5px; }
+main { max-width: 800px; margin: 20px auto; padding: 0 15px; }
+article { background: white; border-radius: 15px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 10px rgba(255,105,180,0.2); }
+article img { width: 100%; border-radius: 10px; }
+article h2 { color: #ff69b4; }
+.artigo-autor { color: #ff1493; font-weight: bold; font-size: 14px; }
+footer { background: #ff69b4; color: white; text-align: center; padding: 15px; }
+</style>
+</head>
+<body>
+
+<header>
+<h1>Blog da melissamartins 💖</h1>
+<p>Bem-vinda ao meu blog!</p>
+</header>
+
+<main>
+<article>
+<img src="melissamartins1.jpg" alt="Foto da melissamartins">
+<div>
+<h2>Novidades sobre a melissamartins</h2>
+<p class="artigo-autor">Por: melissamartins</p>
+<p>A melissamartins está sempre arrasando! Seja bem-vinda ao blog dela, cheio de novidades, fotos e muito amor!</p>
+</div>
+</article>
+
+<article>
+<img src="melissamartins2.jpg" alt="Outra foto da melissamartins">
+<div>
+<h2>Um pouco sobre ela</h2>
+<p class="artigo-autor">Por: melissamartins</p>
+<p>Olha que linda! Esse é o segundo post do blog da melissamartins!</p>
+</div>
+</article>
+
+<article>
+<img src="melissamartins3.jpg" alt="Dicas de maquiagem">
+<div>
+<h2>💄 Dicas de Maquiagem da melissamartins</h2>
+<p class="artigo-autor">Por: melissamartins</p>
+<p>Oii! Aqui vão minhas dicas fofas pra ficar linda sem exagero:</p>
+<p>✨ <b>1. Pele limpinha:</b> sempre lava o rosto antes de passar qualquer coisa.</p>
+<p>✨ <b>2. Hidratante + protetor solar:</b> é o segredo da pele bonita!</p>
+<p>✨ <b>3. Lip balm rosa:</b> deixa a boca hidratada e com uma corzinha fofa.</p>
+<p>✨ <b>4. Blush levinho:</b> só um pouquinho nas bochechas pra ficar com cara de saudável.</p>
+<p>✨ <b>5. Rímel de leve:</b> só uma camadinha pra destacar o olhar.</p>
+<p>✨ <b>6. Sempre tirar antes de dormir:</b> nunca dorme de maquiagem!</p>
+<p>Qual dica vocês mais gostam? Me conta nos comentários! 💖</p>
+</div>
+</article>
+</main>
+
+<footer>
+<p>Feito com carinho por melissamartins 💖</p>
+</footer>
+
+</body>
+</html>
